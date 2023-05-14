@@ -1,6 +1,7 @@
 ## JavaScript Full Stack Bootcamp - Assignment #1 - Week 6
 
 
+![image](https://github.com/sarahsotomayor/product-manager-part-one/assets/116047642/1b0cffa2-925f-4ffc-b4c4-1fd38f680de6)
 
 
 
